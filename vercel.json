@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/cv.html"
+      "dest": "/mahmoud-cv.html"
     }
   ]
 }
